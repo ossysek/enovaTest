@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bossysek\\Documents\\enova\\EnovaTest\\GitUsage\\GitUsage.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bossysek\\Documents\\enova\\EnovaTest\\GitUsage\\GitUsage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bossysek\\Documents\\enova\\EnovaTest\\GitUsage\\GitUsage.csproj",
+        "projectName": "GitUsage",
+        "projectPath": "C:\\Users\\bossysek\\Documents\\enova\\EnovaTest\\GitUsage\\GitUsage.csproj",
+        "packagesPath": "C:\\Users\\bossysek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bossysek\\Documents\\enova\\EnovaTest\\GitUsage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bossysek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Soneta.Products.Modules": {
+              "include": "Compile",
+              "target": "Package",
+              "version": "[1910.1.1, )"
+            },
+            "System.ValueTuple": {
+              "include": "Compile",
+              "target": "Package",
+              "version": "[4.4.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
