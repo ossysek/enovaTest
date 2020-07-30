@@ -1,6 +1,0 @@
-C:\Users\bossysek\Documents\enova\Samples-master\src\FilesOperations\bin\Debug\net46\ReadFileFromList.dll
-C:\Users\bossysek\Documents\enova\Samples-master\src\FilesOperations\bin\Debug\net46\ReadFileFromList.pdb
-C:\Users\bossysek\Documents\enova\Samples-master\src\FilesOperations\ReadFileFromList\obj\Debug\net46\ReadFileFromList.AssemblyInfoInputs.cache
-C:\Users\bossysek\Documents\enova\Samples-master\src\FilesOperations\ReadFileFromList\obj\Debug\net46\ReadFileFromList.AssemblyInfo.cs
-C:\Users\bossysek\Documents\enova\Samples-master\src\FilesOperations\ReadFileFromList\obj\Debug\net46\ReadFileFromList.dll
-C:\Users\bossysek\Documents\enova\Samples-master\src\FilesOperations\ReadFileFromList\obj\Debug\net46\ReadFileFromList.pdb
