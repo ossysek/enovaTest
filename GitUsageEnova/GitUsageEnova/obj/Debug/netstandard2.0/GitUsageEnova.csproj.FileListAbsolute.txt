@@ -1,0 +1,5 @@
+C:\Users\bossysek\Documents\programowanie\c#\GitUsageEnova\GitUsageEnova\bin\Debug\netstandard2.0\GitUsageEnova.deps.json
+C:\Users\bossysek\Documents\programowanie\c#\GitUsageEnova\GitUsageEnova\bin\Debug\netstandard2.0\GitUsageEnova.dll
+C:\Users\bossysek\Documents\programowanie\c#\GitUsageEnova\GitUsageEnova\obj\Debug\netstandard2.0\GitUsageEnova.csprojAssemblyReference.cache
+C:\Users\bossysek\Documents\programowanie\c#\GitUsageEnova\GitUsageEnova\obj\Debug\netstandard2.0\GitUsageEnova.AssemblyInfoInputs.cache
+C:\Users\bossysek\Documents\programowanie\c#\GitUsageEnova\GitUsageEnova\obj\Debug\netstandard2.0\GitUsageEnova.AssemblyInfo.cs

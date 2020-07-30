@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitUsageEnova", "GitUsageEnova\GitUsageEnova.csproj", "{B37886D4-CFA0-4C21-9DB5-0016A3636535}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitUsageEnova.UI", "GitUsageEnova.UI\GitUsageEnova.UI.csproj", "{020326B5-3ACE-4F50-BB35-3DF38F3B3511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B37886D4-CFA0-4C21-9DB5-0016A3636535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B37886D4-CFA0-4C21-9DB5-0016A3636535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B37886D4-CFA0-4C21-9DB5-0016A3636535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B37886D4-CFA0-4C21-9DB5-0016A3636535}.Release|Any CPU.Build.0 = Release|Any CPU
+		{020326B5-3ACE-4F50-BB35-3DF38F3B3511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020326B5-3ACE-4F50-BB35-3DF38F3B3511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020326B5-3ACE-4F50-BB35-3DF38F3B3511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020326B5-3ACE-4F50-BB35-3DF38F3B3511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {763E1774-B1DA-4E79-B3C1-62B3FE284822}
+	EndGlobalSection
+EndGlobal

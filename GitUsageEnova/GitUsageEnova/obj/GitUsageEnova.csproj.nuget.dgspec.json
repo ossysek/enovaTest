@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Beata\\Documents\\Documents\\programowanie\\c#\\GitUsageEnova\\GitUsageEnova\\GitUsageEnova.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Beata\\Documents\\Documents\\programowanie\\c#\\GitUsageEnova\\GitUsageEnova\\GitUsageEnova.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Beata\\Documents\\Documents\\programowanie\\c#\\GitUsageEnova\\GitUsageEnova\\GitUsageEnova.csproj",
+        "projectName": "GitUsageEnova",
+        "projectPath": "C:\\Users\\Beata\\Documents\\Documents\\programowanie\\c#\\GitUsageEnova\\GitUsageEnova\\GitUsageEnova.csproj",
+        "packagesPath": "C:\\Users\\Beata\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Beata\\Documents\\Documents\\programowanie\\c#\\GitUsageEnova\\GitUsageEnova\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Beata\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Soneta.Products.Modules": {
+              "include": "Compile",
+              "target": "Package",
+              "version": "[2001.0.2, )"
+            },
+            "System.ValueTuple": {
+              "include": "Compile",
+              "target": "Package",
+              "version": "[4.4.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
