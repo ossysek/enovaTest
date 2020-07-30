@@ -1,9 +1,0 @@
-C:\Users\bossysek\Documents\programowanie\c#\GitUsage\GitUsage\bin\Debug\GitUsage.dll
-C:\Users\bossysek\Documents\programowanie\c#\GitUsage\GitUsage\bin\Debug\GitUsage.pdb
-C:\Users\bossysek\Documents\programowanie\c#\GitUsage\GitUsage\obj\Debug\GitUsage.AssemblyInfoInputs.cache
-C:\Users\bossysek\Documents\programowanie\c#\GitUsage\GitUsage\obj\Debug\GitUsage.AssemblyInfo.cs
-C:\Users\bossysek\Documents\programowanie\c#\GitUsage\GitUsage\obj\Debug\GitUsage.csproj.CoreCompileInputs.cache
-C:\Users\bossysek\Documents\programowanie\c#\GitUsage\GitUsage\obj\Debug\GitUsage.dll
-C:\Users\bossysek\Documents\programowanie\c#\GitUsage\GitUsage\obj\Debug\GitUsage.pdb
-C:\Users\bossysek\Documents\programowanie\c#\GitUsage\bin\Debug\GitUsage.dll
-C:\Users\bossysek\Documents\programowanie\c#\GitUsage\bin\Debug\GitUsage.pdb
