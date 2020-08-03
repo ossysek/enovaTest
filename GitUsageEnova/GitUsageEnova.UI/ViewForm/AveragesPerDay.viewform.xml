@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<DataForm Contexts="License.All" xmlns="http://www.enova.pl/schema/form.xsd"
+          xsi:schemaLocation="http://www.enova.pl/schema/ http://www.enova.pl/schema/form.xsd"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  >
+  <Grid Name="List">
+    <Field CaptionHtml="Osoba" EditValue="{Osoba}"/>
+    <Field CaptionHtml="Ilosc" EditValue="{Ilosc}"/>
+  </Grid>
+</DataForm>
